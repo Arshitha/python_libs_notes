@@ -1,0 +1,3 @@
+[submodule "numpy_notes"]
+	path = numpy_notes
+	url = git@github.com:Arshitha/numpy_notes.git
